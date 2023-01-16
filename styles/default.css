@@ -1,0 +1,116 @@
+body {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #AFEEEE;
+  background-color: #008080;
+  font-size: 100%;
+  line-height: 150%;
+}
+*{padding: 0; margin: 0; box-sizing: border-box;}
+
+header {
+	text-align: center;
+	width: 100%;
+	height: auto;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	overflow: hidden;
+	border-radius: 0 0 85% 85% / 30%;
+}
+header .overlay{
+	width: 100%;
+	height: 100%;
+	padding: 25px;
+	color: #FFF;
+	text-shadow: 1px 1px 1px #333;
+	background-image: linear-gradient( 135deg, #008080 45%, #FFC2FF 80%);
+}
+
+main {
+	margin-left: 50px;
+	line-height: 1.5;
+	}
+	
+h1 {
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	color: #FFE4F1;
+	text-shadow: 2px 1px #e9967a;
+	font-size: 80px;
+	margin: 30px;
+}
+
+h2 {
+	text-align: center;
+	font-family: Georgia, serif;
+	margin-top: 40px;
+	color: #FFF;
+	text-shadow: 1px 1px 1px #333;
+	font-size: 2em;
+}
+h3 {
+	font-family: Georgia, serif;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+	line-height: 50px;
+	font-size: 1.5em;
+}
+
+p {
+	width: 75%;
+	margin-left: 40px;
+
+}
+figure {
+	text-align: center;
+	font-style: italic;
+	margin-top: 30px;
+}
+
+footer {
+	text-align: center;
+	padding-top: 45px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	line-height: 35px;
+}
+
+dt {
+	color: #FFE4F1;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+dd {
+	word-wrap: break-word;
+	padding-left: 50px;
+	width: 80%;
+}
+
+#annakayatwins {
+	border-radius: 25px;
+}
+
+a {
+	color: #E9967A;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	color: pink;
+}
+	
+.in_text {
+	color: #AFEEEE;
+	text-decoration: underline;
+}
+
+ul {
+	width: 75%;
+	margin-left: 50px;
+}
+	
+	
